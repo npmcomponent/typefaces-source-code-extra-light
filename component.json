@@ -1,0 +1,15 @@
+{
+  "name": "source-code-extra-light",
+  "repo": "typefaces/source-code-extra-light",
+  "description": "The Source Code extra light typeface.",
+  "version": "0.0.1",
+  "license": "MIT",
+  "styles": [
+    "index.css"
+  ],
+  "fonts": [
+    "fonts/source-code-extra-light.eot",
+    "fonts/source-code-extra-light.ttf",
+    "fonts/source-code-extra-light.woff"
+  ]
+}
