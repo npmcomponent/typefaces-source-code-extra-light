@@ -1,0 +1,10 @@
+{
+  "name": "typefaces-source-code-extra-light",
+  "description": "The Source Code extra-light typeface.",
+  "version": "0.0.1",
+  "styles": [
+    "index.css"
+  ],
+  "dependencies": {},
+  "license": "MIT"
+}
